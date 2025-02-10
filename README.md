@@ -2,4 +2,4 @@
 
 Here is the sample application to make password 
 
-[LINK]("https://password-generator-beige-gamma.vercel.app/")
+[LINK](https://password-generator-beige-gamma.vercel.app/)
